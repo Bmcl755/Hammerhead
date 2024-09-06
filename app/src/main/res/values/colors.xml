@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mask_main">#1A2980</color>
+    <color name="mask_secondary">#991A2980</color>
+    <color name="wetsuit_main"> #1F7F95</color>
+    <color name="wetsuit_secondary"> #991F7F95 </color>
+    <color name="fins_main">#144A85</color>
+    <color name="fins_secondary">#99144A85</color>
+    <color name="main_colour">#21499E</color>
+    <color name="main_secondary">#9921499E</color>
+</resources>

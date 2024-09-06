@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257963213801",
+    "project_id": "hammerhead-database",
+    "storage_bucket": "hammerhead-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257963213801:android:c6b2ce2aaafdd090ed8178",
+        "android_client_info": {
+          "package_name": "com.example.hammerhead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257963213801-du3qc3a0o4tn79qv8hogjdoacl432n21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9f67ZjbOidVgY-q9b_qCoTdYqTuoAsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257963213801-du3qc3a0o4tn79qv8hogjdoacl432n21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

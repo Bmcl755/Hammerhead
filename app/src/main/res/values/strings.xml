@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HammerHead</string>
+
+    <string name="description">description goes here</string>
+    <string name="price">$ Price NZD</string>
+    <string name="colours">Colours:</string>
+    <string name="colours_list">colours list</string>
+    <string name="size">Size:</string>
+    <string name="sizes">Size here</string>
+    <string name="thickness_title">Thickness:</string>
+    <string name="thickness">Thickness here</string>
+    <string name="gender_title">Gender:</string>
+    <string name="gender">gender goes here</string>
+    <string name="brand_text">brand name goes here</string>
+
+
+</resources>
